@@ -1,0 +1,11 @@
+streamlit
+openai
+pdfplumber
+python-docx
+spacy
+transformers
+nltk
+scikit-learn
+faiss-cpu
+sentence-transformers
+pyttsx3
